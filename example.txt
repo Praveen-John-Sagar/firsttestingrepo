@@ -1,3 +1,4 @@
 this is an and chech this example
 And this is second commiting changes
 this should be a conflict checking this
+This change has been made in github
